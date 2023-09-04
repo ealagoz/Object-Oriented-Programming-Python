@@ -1,0 +1,27 @@
+INSERT OR REPLACE INTO company("name", "employee", "salary") VALUES
+("SBI", "Jon Doe", 66320),
+("SBI", "Peter Boy", 67955),
+("SBI", "Joe Carter", 76333),
+("SBI", "Jon Boy", 54622),
+("SBI", "Jo Connor", 74601),
+("SBI", "Fred Jenkins", 56074),
+("DBI", "Elene Elen", 90435),
+("DBI", "Norma Sanders", 51408),
+("DBI", "Anne Ross", 96952),
+("DBI", "Brian Cook", 62721),
+("DBI", "Christine Hughes", 84707),
+("DBI", "Daniel Butler", 74855),
+("ABI", "Michelle Hill", 80841),
+("ABI", "Dennis Long", 52475),
+("ABI", "Tina Martin", 58105),
+("ABI", "Aaron Perez", 64970),
+("ABI", "Albert Martinez", 50269),
+("ABI", "Andrea Scott", 77459),
+("GBI", "Ronald Davis", 96417),
+("GBI", "Ruth Bennett", 62461),
+("GBI", "Sharon White", 55837),
+("GBI", "Paul Wood", 75765),
+("GBI", "Amy Roberts", 83076),
+("GBI", "Willie Rogers", 79270);
+
+
